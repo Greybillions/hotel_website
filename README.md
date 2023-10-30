@@ -13,7 +13,7 @@ Welcome to my **Hotel Website**! This project just illustrates the use of HTML a
 
 ## Usage
 Here's how you can view this project:
-- Open your browser and go to...(localhost)
+- Open your browser and go to https://hotel-website-ochre.vercel.app/
 
 ## Contributing
 We welcome contributions! To contribute:

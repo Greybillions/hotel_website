@@ -1,6 +1,6 @@
 # Hotel Website
 
-Welcome to my **Hotel Website**! This project just illustrates the use of HTML and CSS.
+Welcome to my **Hotel Website**! This project illustrates the use of HTML and CSS in creating a responsive web page that adapts to any screen size.
 
 ## Table of Contents
 - [Installation](#installation)
